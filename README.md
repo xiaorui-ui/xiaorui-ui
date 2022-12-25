@@ -3,7 +3,7 @@
  Currently working on and off on an [N-dle solver](https://github.com/xiaorui-ui/Ndle/blob/main/wordle/Wordle.java)
  
  # Socials
- [Linkedin](linkedin.com/in/xiaorui-zhang-83687a196)
+ [Linkedin](www.linkedin.com/in/xiaorui-zhang-83687a196)
 
 [Github](https://github.com/xiaorui-ui)[^1]
  
