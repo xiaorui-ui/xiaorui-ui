@@ -1,6 +1,6 @@
  👋 Hi, I’m Xiaorui, a Math and CS freshman at NUS, interested in any cool Math or CS theory, really. Applications are cool too, sometimes!
  
- Currently working on and off on an [N-dle solver](https://github.com/xiaorui-ui/Ndle/blob/main/wordle/Wordle.java)
+ Currently working on and off on an [N-dle solver](https://github.com/xiaorui-ui/Ndle)
  
  # Socials
  [Linkedin](https://www.linkedin.com/in/xiaorui-zhang-83687a196/)
