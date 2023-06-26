@@ -1,4 +1,4 @@
- 👋 Hi, I’m Xiaorui, a Math and CS freshman at NUS, interested in any cool Math or CS theory, really. Applications are cool too, sometimes!
+ 👋 Hi, I’m Xiaorui, a Math and CS freshman turning sophomore at NUS, interested in any cool Math or CS theory, really. Applications are cool too, sometimes!
  
  Currently working on and off on an [N-dle solver](https://github.com/xiaorui-ui/Ndle)
  
